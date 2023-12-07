@@ -19,3 +19,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 [file:///Users/devencastoria/Challenge-1/index.html]
+
+
+git clone <git@github.com:dcast217/Horiseon-Project.git>
