@@ -3,7 +3,7 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-Acceptance Criteria
+Acceptance Criteria:
 
 
 GIVEN a webpage meets accessibility standards
@@ -17,4 +17,4 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-file:///Users/devencastoria/Challenge-1/index.html
+<linkfile:///Users/devencastoria/Challenge-1/index.html>
